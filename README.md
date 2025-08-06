@@ -5,9 +5,9 @@ We have formatted our world for cars, yet have little else to make use of all th
 
 One thiosphere is made from the fewest number of parts possible, yet resulting in a strong, light and roomy, modular space that only take up 1/2 of a parking spot. It is flat packable and can be assembled with common tools. It is a modular so you can create a endless number of spaces, from a simple shelter to a complex office. It is both functional and beautiful, and designed to be a second place for life to flourish - whatever, and wherever those requirments are.
 
-![Thiosphere Basics](media/football.png)
-![Thiosphere Basics](media/basics.png)
-![Thiosphere Flattened View](media/flatten.png)
+![Thiosphere Basics](_media/football.png)
+![Thiosphere Basics](_media/basics.png)
+![Thiosphere Flattened View](_media/flatten.png)
 
 
 ### Open Source Spaces
@@ -21,11 +21,11 @@ The CERN Open Hardware License (Version 2 - Strongly Reciprocal) ensures that:
 - Documentation must be provided for all changes
 
 
-![Thiosphere Scale](media/module.png)
+![Thiosphere Scale](_media/module.png)
 
 
 
-![Thiosphere Scale](media/scale.png)
+![Thiosphere Scale](_media/scale.png)
 
 ## The Advantages
 
